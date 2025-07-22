@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-
-public class MySoluction {
+public class MySolution {
     public int findLHS(int[] nums) {
         ArrayList<Integer> LHSList = new ArrayList<>();
         ArrayList<ArrayList<Integer>> results = new ArrayList<>();
